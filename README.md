@@ -6,4 +6,4 @@ This is my latest and greatest resume. Let me know if I can provide any addition
 
 [LinkedIn](https://www.linkedin.com/in/joshheffner)
 
-[me@joshheffner.com](me@joshheffner.com)
+[me@joshheffner.com](mailto:me@joshheffner.com)

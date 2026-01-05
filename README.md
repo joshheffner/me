@@ -1,4 +1,4 @@
-This is my latest and greatest resume. Let me know if I can provide any additional info :)
+This is my latest and greatest resume. Please reach out if you would like any additional info :)
 
 [Resume](Resume-JoshHeffner.pdf)
 

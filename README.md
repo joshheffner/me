@@ -4,4 +4,6 @@ This is my latest and greatest resume. Let me know if I can provide any addition
 
 [Certifications](Certs-JoshHeffner.pdf)
 
-LinkedIn: https://www.linkedin.com/in/joshheffner
+[LinkedIn](https://www.linkedin.com/in/joshheffner)
+
+[me@joshheffner.com](me@joshheffner.com)

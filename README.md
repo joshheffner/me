@@ -2,8 +2,10 @@ This is my latest and greatest resume. Let me know if I can provide any addition
 
 [Resume](Resume-JoshHeffner.pdf)
 
-[Certifications](Certs-JoshHeffner.pdf)
+[Certifications](https://learn.microsoft.com/en-us/users/joshheffner/transcript/drjxqi63rkjo6k8)
 
 [LinkedIn](https://www.linkedin.com/in/joshheffner)
 
-[me@joshheffner.com](mailto:me@joshheffner.com)
+me@joshheffner.com
+
+
